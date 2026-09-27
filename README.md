@@ -1,6 +1,6 @@
 # AIO Power Supply (LT8391 buck-boost)
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23002046-blue.svg)](https://doi.org/10.5281/zenodo.23002046) [![Docs: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-lightgrey.svg)](LICENSE) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22992266-blue.svg)](https://doi.org/10.5281/zenodo.22992266) [![Docs: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-lightgrey.svg)](LICENSE) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
 
 An all-in-one buck-boost power supply: adjustable constant current with a fixed constant-voltage
 limit, for LEDs and other DC loads.
