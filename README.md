@@ -1,6 +1,6 @@
 # AIO Power Supply (LT8391 buck-boost)
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22992267-blue.svg)](https://doi.org/10.5281/zenodo.22992267) [![Docs: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-lightgrey.svg)](LICENSE) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23002046-blue.svg)](https://doi.org/10.5281/zenodo.23002046) [![Docs: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-lightgrey.svg)](LICENSE) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
 
 An all-in-one buck-boost power supply: adjustable constant current with a fixed constant-voltage
 limit, for LEDs and other DC loads.
@@ -95,12 +95,12 @@ flowchart LR
 
 ```
 hardware/pdf/           schematic and board layout of V2 as PDF
-hardware/pdf/v1/        V1 schematic and V1 draft schematic as PDF
+hardware/pdf/v1/        V1 schematic as PDF
 hardware/bom/           bill of materials V2
 docs/measurements.md    bench measurement, input current vs. output voltage
 ```
 
-The board PDF shows the layer view from EAGLE.
+The board PDF shows the copper layers, pads, vias and component outlines.
 
 ## License
 
@@ -109,7 +109,7 @@ The board PDF shows the layer view from EAGLE.
 You may use, change and share everything, also commercially. When you pass it on or
 publish something based on it, credit it as:
 
-> Johannes Stockhammer, "AIO Power Supply (LT8391 buck-boost)", version 1.0.0, Zenodo, https://doi.org/10.5281/zenodo.22992267
+> Johannes Stockhammer, "AIO Power Supply (LT8391 buck-boost)", version 1.0.1, Zenodo, https://doi.org/10.5281/zenodo.23002046
 
 GitHub shows the same citation under "Cite this repository" (from [`CITATION.cff`](CITATION.cff)).
 
